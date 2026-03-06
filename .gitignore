@@ -4,3 +4,4 @@ secret.t
 secret.txt
 *.log
 *.env
+node_modules

@@ -1,0 +1,6 @@
+secret.t
+*.log
+*.env
+secret.txt
+*.log
+*.env
